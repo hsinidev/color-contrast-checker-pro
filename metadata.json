@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Color Contrast Checker",
+  "description": "A modern, accessible tool to instantly check color contrast ratios against WCAG 2.1 standards, set against an animated cosmic background. Provides immediate pass/fail feedback for AA and AAA levels to help designers and developers create inclusive web experiences.",
+  "requestFramePermissions": []
+}
