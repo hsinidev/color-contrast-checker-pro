@@ -6,7 +6,7 @@
 
 **The most beautiful, accessible, and user-friendly color contrast checker on the web.**
 
-### [🚀 LIVE DEMO: doodax.com](https://doodax.com)
+### [🚀 LIVE DEMO: doodax.com](https://doodax.com/tools/cosmic-color-contrast-checker/index.html)
 
 ---
 
